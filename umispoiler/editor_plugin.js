@@ -1,4 +1,4 @@
-
+﻿
 (function() {
 	tinymce.PluginManager.requireLangPack('umispoiler');
 
